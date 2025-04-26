@@ -2,7 +2,7 @@
 <h3 align="center">Passionate about technology, programming and innovation 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Fullstack;Entusiasta+Open+Source;Amante+de+Python+e+Node.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Developer+Fullstack;Enthusiast+Open+Source;Lover+of+Python+and+Node.js" alt="Typing SVG" />
 </p>
 
 ---
