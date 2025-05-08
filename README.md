@@ -55,5 +55,6 @@
 ## 🐍 Snake with my commits
 
 <p align="center">
-  <img src="https://github.com/nonamecfg/nonamecfg/blob/main/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img src="https://github.com/NoNameCfg/NoNameCfg/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
