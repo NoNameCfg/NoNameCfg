@@ -18,7 +18,7 @@ jobs:
         uses: Platane/snk/svg-only@v2
         with:
           github_user_name: NoNameCfg
-          svg_out_path: output/github-contribution-grid-snake.svg
+          svg_out_path: main/output/github-contribution-grid-snake.svg
 
       - name: Push Snake SVG
         run: |
