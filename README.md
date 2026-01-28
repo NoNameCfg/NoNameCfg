@@ -1,8 +1,8 @@
-<h1 align="center">Hey 👋, I'm Nonamecfg</h1>
+<h1 align="center">Hey 👋, I'm NoNameCfg</h1>
 <h3 align="center">Passionate about technology, programming, and innovation 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Open+Source+Enthusiast;Python+%26+Node.js+Lover" alt="Typing SVG" />
+  <b>Fullstack Developer • Open Source Enthusiast • Python & Node.js Lover</b>
 </p>
 
 ---
@@ -10,7 +10,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nonamecfg&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NoNameCfg&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
 </p>
 
 ---
@@ -21,14 +21,15 @@
   <table align="center">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=nonamecfg&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=NoNameCfg&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonamecfg&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoNameCfg&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
       </td>
     </tr>
   </table>
-  <img src="https://streak-stats.demolab.com?user=nonamecfg&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+  <img src="https://streak-stats.demolab.com?user=NoNameCfg&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
